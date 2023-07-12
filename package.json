@@ -1,11 +1,24 @@
 {
   "name": "file-library",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelJedi/file-library.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/PavelJedi/file-library/issues"
+  },
+  "homepage": "https://github.com/PavelJedi/file-library#readme",
+  "description": "",
+  "dependencies": {
+    "binary-parser": "^2.2.1",
+    "xml2js": "^0.6.0"
+  }
 }

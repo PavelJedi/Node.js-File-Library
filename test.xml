@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Document>
+  <Car>
+    <Date>10.10.2008</Date>
+    <BrandName>Alpha Romeo Brera</BrandName>
+    <Price>37000</Price>
+  </Car>
+  <Car>
+    <Date>11.11.2011</Date>
+    <BrandName>Beta Beta Car</BrandName>
+    <Price>45000</Price>
+  </Car>
+</Document>
